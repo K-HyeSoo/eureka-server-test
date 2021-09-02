@@ -13,5 +13,4 @@ public class EurekaServerTestApplication {
 
         // 자동 빌드 테스트
     }
-
 }
