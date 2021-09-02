@@ -10,6 +10,8 @@ public class EurekaServerTestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EurekaServerTestApplication.class, args);
+
+        // 자동 빌드 테스트
     }
 
 }
